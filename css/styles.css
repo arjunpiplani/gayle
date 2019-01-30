@@ -8,6 +8,14 @@
     max-height: 200px;
     overflow-x: hidden;
 }
+
+.offyear{
+    display:none;
+}
+
+.registrationyear{
+
+}
 .progress{
 	background: black;
 }
